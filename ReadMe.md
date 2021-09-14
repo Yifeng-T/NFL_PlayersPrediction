@@ -1,4 +1,4 @@
-# REPORT
+# NFL Prediction_REPORT
 ## What is the problem?
 The problem is that: we have a group of data about NFL players, including their heights, weights and positions. We want to analyze the physical builds of such players. To be more specific, the goal is: for any given height and weight of a player, what is the best position for him? 
 <br>
